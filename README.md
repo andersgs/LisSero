@@ -1,3 +1,5 @@
+### DEVELOPMENT HAS BEEN TRANSFERRED TO https://github.com/MDU-PHL/LisSero
+
 # LisSero
 *In silico* serogroup prediction for *Listeria monocytogenes*
 
